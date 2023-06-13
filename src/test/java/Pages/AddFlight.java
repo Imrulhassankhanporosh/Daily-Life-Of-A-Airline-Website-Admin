@@ -4,6 +4,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.FindBys;
 
 public class AddFlight extends BasePage {
 
@@ -61,7 +62,7 @@ public class AddFlight extends BasePage {
     @FindBy(xpath = "//input[@class='xcrud-input xcrud-datepicker form-control hasDatepicker']")
     WebElement departure_time;
 
-    @FindBy(xpath = "//*[@id=\"dp1686670051843\"]")
+    @FindBy(name = "ZmxpZ2h0cy5hcnJpdmFsX3RpbWU-")
     WebElement arrival_time;
 
     @FindBy(xpath = "/html/body/main/section/div[2]/div/div/div[1]/div[2]/table/tbody/tr[12]/td[2]/input")
