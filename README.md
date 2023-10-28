@@ -1,5 +1,5 @@
 # POM_Selenium_Allure_TestNG
-This is a simple selenium project which is created using POM , TestNG and ALlure. I have used page object model and page factory for this project, Run my 
+This is a simple selenium project which is created using POM , TestNG and Allure. I have used page object model and page factory for this project, Run my 
 test cases using TestNG and provided screenshots after completing the test cases.
 
 I have used a airline website where admin has to login and can perform necessary responsibilities.
