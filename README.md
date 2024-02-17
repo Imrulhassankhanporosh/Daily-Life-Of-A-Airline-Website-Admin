@@ -1,4 +1,4 @@
-# Web Automation Project By Selenium
+# Daily Life Of A Airline Website Admin
 This is a simple selenium project which is created using POM , TestNG and Allure. I have used page object model and page factory for this project, Ran my 
 test cases using TestNG and provided screenshots after completing the test cases.
 
